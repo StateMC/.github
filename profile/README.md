@@ -19,6 +19,6 @@ Ein Satz den man so oft auf anderen "Roleplay" Servern liest. Bei uns trifft die
 ---
 
 
-![https://discord.com/invite/JNVkRxP](https://statemc.de/assets/images/discord.png) ![ts3server://ts.statemc.de](https://statemc.de/assets/images/teamspeak.png) ![https://www.youtube.com/channel/UCz6W7EFoaAJJ55CCWJRzsIg](https://statemc.de/assets/images/youtube.png)
+![https://discord.com/invite/JNVkRxP](https://statemc.de/assets/images/discord.png) ![ts3server://ts.statemc.de](https://statemc.de/assets/images/teamspeak.png) ![https://www.youtube.com/channel/UCz6W7EFoaAJJ55CCWJRzsIg](https://statemc.de/assets/images/youtube.png) ![https://statemc.de](https://panels-images.twitch.tv/panel-536301106-image-ebe8307a-f9a7-4d66-a7c8-a096898db95c)
 
 ---
