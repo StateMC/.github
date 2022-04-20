@@ -13,7 +13,7 @@ Ein Satz den man so oft auf anderen "Roleplay" Servern liest. Bei uns trifft die
 ## Entwickler bei StateMC
 
 - FRH » Roleplay-System, Modifiktationen, TS³-Plugin
-- Ron31 » Rolaplay-UI, Website
+- Ron31 » Roleplay-UI, Website
 - GamePlayZ_ » Netzwerk, Modifikationen
 - hxnd_ » Discord-Bot, Netzwerk
 ---
